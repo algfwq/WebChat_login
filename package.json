@@ -10,7 +10,8 @@
   "dependencies": {
     "element-plus": "^2.3.9",
     "js-cookie": "^3.0.5",
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "postcss": "8.4.31"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
